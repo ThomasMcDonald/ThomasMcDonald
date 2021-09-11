@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center"> Hi 👋, I'm Thomas </h2>
 
-<!--
-**ThomasMcDonald/ThomasMcDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomasmcdonald-009b1796">
+    <img alt="Thomas' LinkedIn" width="22px" src="icons/linkedin.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmcdonald">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thomasmcdonald">
+
+
