@@ -5,7 +5,3 @@
     <img alt="Thomas' LinkedIn" width="22px" src="icons/linkedin.svg" />
   </a>
 </p>
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmcdonald&layout=compact">
-</p>
