@@ -6,10 +6,3 @@
   </a>
 </p>
 
-
-<p>
-  I built an app!
-</p>
-  
-  <a href='https://play.google.com/store/apps/dev?id=7119726401319691772'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="30%"/></a>
-
